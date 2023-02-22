@@ -10,6 +10,11 @@ class Titik{
         counter++;
     }
 
+    Titik(double a, double b){
+        absis = a;
+        ordinat = b;
+        counter++;
+    }
     double getAbsis(){
         return absis;
     }
