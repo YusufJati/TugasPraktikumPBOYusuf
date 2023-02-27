@@ -1,6 +1,15 @@
-public class Mtitik {
-    static double counter;
+/*
+Nama File: Mtitik.java
+Deskrpsi: file main dari class titik
+Pembuat: Muhamad Aditya Yusuf Jatikusumo
+NIM: 24060121140157
+Tanggal: 27 Februari 2023
+*/
 
+public class Mtitik {
+    // Atribut
+    static double counter;
+    // Algoritma
     public static void main(String[] args) {
         Titik t1 = new Titik();
         Titik t2 = new Titik();
