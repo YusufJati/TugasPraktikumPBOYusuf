@@ -1,3 +1,11 @@
+/*
+Nama File: Titik.java
+Deskrpsi: file class titik
+Pembuat: Muhamad Aditya Yusuf Jatikusumo
+NIM: 24060121140157
+Tanggal: 27 Februari 2023
+*/
+
 class Titik{
     // Atribut
     double absis,ordinat;
