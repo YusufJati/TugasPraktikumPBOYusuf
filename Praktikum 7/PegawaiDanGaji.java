@@ -4,7 +4,7 @@
  * Lab          : PBO B
  * Tanggal      : 3 Mei 2023
  */
-package Tugas;
+
 
 public class PegawaiDanGaji {
     public static void main(String[] args) {
